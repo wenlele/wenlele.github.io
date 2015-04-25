@@ -14,7 +14,7 @@ tags: [experience]
 从官方的定位看，GitHub Pages是让用户搭建个人及项目主页的解决方案。这个解决方案特别通用，GitHub Pages只是把请求重定向到用户提供静态网页内容，所有很多人将其作为搭建个人博客的一种选择。
 
 
-## 基于[Jekyll/bootstarp](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)快速搭建Github pages
+## 基于[Jekyll/bootstarp](http://jekyllbootstrap.com/usage/jekyll-quick-start.html) 快速搭建Github Pages
 
 基本按下面两篇分享做的（其实两篇差不多），自己之前没怎么用过github, ruby/python皆小白，最后花了半个晚上搞定。
 
